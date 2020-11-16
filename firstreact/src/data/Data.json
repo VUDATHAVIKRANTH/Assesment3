@@ -1,0 +1,32 @@
+{
+    "detials":{
+        "name":"V.Vikranth",
+        "email":"vudathavikranth",
+        "image":
+
+    },
+    "objective":{
+        "to become a software engineer"
+    },
+    "education":[
+        {
+            "institute":"Bapatla Engineering College",
+            "degree":"B.Tech",
+            "POY":2020
+        },
+        {
+            "institute":"Sri Chaitanya College",
+            "degree":"12th",
+            "POY":2016
+        },
+        {
+            "institute":"Gayatri High School",
+            "degree":"10th",
+            "POY":2014
+        },
+    ],
+    "skills":{
+        "technical":"c,java"
+    }
+
+}

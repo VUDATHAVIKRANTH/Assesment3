@@ -1,12 +1,11 @@
 {
     "detials":{
         "name":"V.Vikranth",
-        "email":"vudathavikranth",
-        "image":
+        "email":"vudathavikranth15@gmail.com"
 
     },
     "objective":{
-        "to become a software engineer"
+        "info":"to become a software engineer"
     },
     "education":[
         {
@@ -23,7 +22,7 @@
             "institute":"Gayatri High School",
             "degree":"10th",
             "POY":2014
-        },
+        }
     ],
     "skills":{
         "technical":"c,java"

@@ -3,7 +3,7 @@ import React from 'react'
 class Reactclass extends React.Component
 {
     render(){
-    return (<div><h1>vikranth</h1>
+    return (<div><marquee><h1>Vikranth's Resume</h1></marquee>
     <Demo/>
     </div>
     )
@@ -11,6 +11,6 @@ class Reactclass extends React.Component
 }
 function Demo()
 {
-  return <h1>demo</h1>
+  return <h1></h1>
 }
 export default Reactclass

@@ -24,7 +24,8 @@ import Resume from './Resume.js';
         <div className='row'>
             <div className='card col-md-4 offset-4 mt-4'>
                 <img className='card-img-top' src={logo}/>
-                <h1>{Data.detials.email}</h1>
+                <h1>{Data.detials.name}</h1>
+                <h5>{Data.detials.email}</h5>
                 <Link to="/Resume" className="btn-primary">Click</Link> 
             </div>
         </div>

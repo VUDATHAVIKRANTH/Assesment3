@@ -1,6 +1,5 @@
+import resume from"./resume.html";
 function Resume(){
-    return(
-        <h1>Resume Page</h1>
-    )
+    return(resume)
 }
 export default Resume
